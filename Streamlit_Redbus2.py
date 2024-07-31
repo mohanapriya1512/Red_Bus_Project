@@ -2,12 +2,12 @@ import mysql.connector
 import pandas as pd
 
 #Establish database connection
-#pymysql.connect(host='127.0.0.1',user='root',passwd='Saipriya1512$',database='redbusdb')
+#pymysql.connect(host='127.0.0.1',user='root',passwd='*******',database='redbusdb')
 def get_db_connection():
     return mysql.connector.connect(
         host="127.0.0.1",
         user="root",
-        password="Saipriya1512$",
+        password="*******",
         database="redbusdb"
     )
 
