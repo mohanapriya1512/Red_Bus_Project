@@ -1,0 +1,77 @@
+,Unnamed: 0,route_name,route_link,bus_name,bus_type,departing_time,duration,arrival_time,star_rating,fare_price,seat_availablity
+0,0,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),21:30,06h 00m,03:30,3.2,400.0,13
+1,1,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Himalayan Travels,NON A/C Seater (2+2),23:40,04h 20m,04:00,2.1,450.0,23
+3,3,Tezpur to Guwahati,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),22:15,05h 30m,03:45,3.8,550.0,16
+4,4,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),18:00,05h 30m,23:30,3.5,375.0,21
+5,5,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Yatra Travels,NON AC Seater/ Sleeper (2+1),20:00,04h 00m,00:00,3.8,400.0,7
+6,6,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),20:15,05h 00m,01:15,3.4,450.0,12
+7,7,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),20:45,05h 45m,02:30,3.4,500.0,6
+8,8,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),21:15,04h 00m,01:15,3.5,450.0,20
+9,9,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Non AC Seater (2+1),21:45,04h 15m,02:00,3.9,450.0,9
+11,11,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),19:15,05h 15m,00:30,2.4,500.0,31
+12,12,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:00,05h 15m,01:15,2.6,500.0,25
+13,13,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,KIRAN TRAVELS,A/C Seater (2+1),20:40,03h 50m,00:30,3.1,600.0,3
+14,14,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,05h 00m,02:30,4.1,550.0,5
+15,15,Nagaon (Assam) to Guwahati,https://www.redbus.in/bus-tickets/nagaon-to-guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,17:00,02h 15m,19:15,4.4,302.91,3
+16,16,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon,Megha Transport,Bharat Benz NON A/C Seater / Sleeper (2+1),19:30,02h 45m,22:15,3.7,500.0,35
+17,17,Jorhat to North Lakhimpur,https://www.redbus.in/bus-tickets/jorhat-to-north-lakhimpur,Priyanka,NON A/C Seater (2+1),19:00,10h 30m,05:30,3.0,600.0,12
+19,19,North Lakhimpur to Sibsagar,https://www.redbus.in/bus-tickets/north-lakhimpur-to-sibsagar,Sylvan DEE Transport,Non AC Seater (2+1),17:30,12h 00m,05:30,3.4,640.0,11
+20,20,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),20:00,08h 00m,04:00,3.6,550.0,17
+21,21,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Puja Transport,NON AC Seater / Sleeper 2+1,20:00,08h 30m,04:30,3.5,550.0,7
+23,23,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,J.S. Travels,Non AC Seater (2+1),21:00,07h 00m,04:00,2.3,550.0,32
+24,24,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Maa Laxmi,NON A/C Seater Push Back (2+1),23:00,06h 30m,05:30,2.5,550.0,6
+25,25,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,Neha Travels,NON A/C Seater (2+2),22:40,08h 20m,07:00,2.0,650.0,13
+26,26,Tezpur to Dibrugarh,https://www.redbus.in/bus-tickets/tezpur-to-dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:45,08h 15m,04:00,2.0,470.0,7
+27,27,Haflong to Guwahati,https://www.redbus.in/bus-tickets/haflong-to-guwahati,NETWORK TRAVELS,NON A/C Seater (2+1),18:00,10h 00m,04:00,4.5,600.0,3
+28,28,North Lakhimpur to Dibrugarh,https://www.redbus.in/bus-tickets/north-lakhimpur-to-dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,3.8,400.0,28
+29,29,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),19:50,08h 40m,04:30,3.0,470.0,29
+31,31,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,J.S. Travels,Non AC Seater (2+1),19:00,09h 00m,04:00,2.7,500.0,22
+32,32,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Puja Transport,Non AC Seater (2+2),19:15,08h 45m,04:00,2.8,550.0,24
+33,33,Dibrugarh to Tezpur,https://www.redbus.in/bus-tickets/dibrugarh-to-tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),18:30,07h 30m,02:00,2.8,550.0,30
+34,34,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),19:35,06h 25m,02:00,3.8,500.0,8
+35,35,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,Maharathi Travels(UNDER ASTC),NON A/C Seater (2+1),20:55,06h 35m,03:30,4.1,400.0,10
+36,36,Guwahati to Biswanath Charali,https://www.redbus.in/bus-tickets/guwahati-to-biswanath-charali,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:15,06h 15m,02:30,2.2,500.0,26
+37,37,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,NETWORK TRAVELS,NON A/C Seater (2+1),18:30,12h 30m,07:00,4.5,600.0,3
+38,38,Guwahati to Haflong,https://www.redbus.in/bus-tickets/guwahati-to-haflong,Deep Travels,Non AC Seater (2+1),19:30,11h 00m,06:30,3.7,650.0,17
+39,39,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,19:40,05h 20m,01:00,2.4,400.0,25
+40,40,Dibrugarh to North Lakhimpur,https://www.redbus.in/bus-tickets/dibrugarh-to-north-lakhimpur,Air Bus Travels,NON AC Seater / Sleeper 2+1,21:15,04h 45m,02:00,2.3,400.0,31
+41,41,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Trishul Transport Service,A/C Seater / Sleeper (2+1),19:15,03h 40m,22:55,3.6,509.0,27
+42,42,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Baikuntha Transport Service,Bharat Benz A/C Seater /Sleeper (2+1),19:30,03h 45m,23:15,3.4,450.0,32
+43,43,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),19:55,04h 05m,00:00,3.4,540.0,16
+44,44,Dibrugarh to Jorhat,https://www.redbus.in/bus-tickets/dibrugarh-to-jorhat,Murugan RC Travels,NON A/C Seater (2+1),18:55,28h 05m,23:00,2.6,326.0,19
+45,45,Guwahati to Silchar,https://www.redbus.in/bus-tickets/guwahati-to-silchar,JAYSIKA,NON A/C Seater (2+1),18:30,11h 30m,06:00,2.2,650.0,12
+48,48,Biswanath Charali to Guwahati,https://www.redbus.in/bus-tickets/biswanath-charali-to-guwahati,Pranjit Travels (Under ASTC),Non AC Seater (2+1),23:15,06h 15m,05:30,3.8,500.0,7
+50,50,Biswanath Charali to Dibrugarh,https://www.redbus.in/bus-tickets/biswanath-charali-to-dibrugarh,Air Bus Travels,NON AC Seater / Sleeper 2+1,18:30,07h 30m,02:00,3.2,500.0,16
+51,51,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Megha Transport,NON A/C Seater / Sleeper (3+1),17:45,05h 54m,23:39,4.7,500.0,31
+52,52,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),19:00,05h 30m,00:30,4.6,300.0,31
+53,53,Tinsukia to Jorhat,https://www.redbus.in/bus-tickets/tinsukia-to-jorhat,Purple Wings Coaches,A/C Seater / Sleeper (2+1),18:30,05h 30m,00:00,2.7,567.0,16
+54,54,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),20:45,07h 45m,04:30,2.6,520.0,28
+55,55,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),21:00,07h 00m,04:00,3.5,550.0,13
+57,57,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Maa Laxmi,NON A/C Seater Push Back (2+1),19:30,06h 30m,02:00,2.8,500.0,30
+58,58,Moran to Tezpur,https://www.redbus.in/bus-tickets/moran-to-tezpur,Neha Travels,NON A/C Seater (2+2),18:00,09h 15m,03:15,2.4,650.0,17
+59,59,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,KIRAN TRAVELS,A/C Seater (2+1),22:50,08h 40m,07:30,4.6,600.0,3
+60,60,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,4.6,620.0,6
+61,61,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Yatra Travels,NON AC Seater/ Sleeper (2+1),22:20,07h 40m,06:00,4.2,450.0,6
+62,62,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Deep Travels,NON AC Seater / Sleeper 2+1,22:20,06h 40m,05:00,4.0,499.0,7
+64,64,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Yatra Travels,NON A/C Seater (2+1),22:35,07h 40m,06:15,4.0,450.0,2
+66,66,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),22:45,07h 30m,06:15,3.2,650.0,2
+67,67,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),20:15,07h 30m,03:45,4.0,550.0,16
+68,68,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,PARIJAT TRAVELS(UNDER ASTC),NON A/C Seater (2+1),23:11,07h 19m,06:30,3.2,500.0,11
+69,69,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,NORTH EAST TRAVELS(UNDER ASTC),NON A/C Seater (2+1),20:00,10h 00m,06:00,3.2,500.0,23
+70,70,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Drishti Travels,NON A/C Seater (2+1),21:00,08h 30m,05:30,2.9,432.0,11
+71,71,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,MAHARATHI TRANSPORT,NON A/C Semi Sleeper (2+1),22:00,07h 00m,05:00,3.9,400.0,5
+72,72,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Island Travels (Under ASTC),Non AC Seater (2+1),22:30,07h 30m,06:00,3.2,450.0,3
+73,73,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),22:15,07h 15m,05:30,4.0,570.0,7
+74,74,Gohpur to Guwahati,https://www.redbus.in/bus-tickets/gohpur-to-guwahati,GURUNANAK TRAVELS,NON A/C Seater (2+1),21:00,08h 00m,05:00,3.1,500.0,10
+75,75,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Puja Transport,NON AC Seater / Sleeper 2+1,18:30,10h 30m,05:00,3.6,700.0,2
+76,76,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),18:00,10h 30m,04:30,1.7,500.0,29
+77,77,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),18:30,09h 30m,04:00,3.3,550.0,13
+78,78,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,J.S. Travels,Non AC Seater (2+1),17:30,10h 30m,04:00,3.1,550.0,22
+79,79,Tinsukia to Tezpur,https://www.redbus.in/bus-tickets/tinsukia-to-tezpur,Puja Transport,Non AC Seater (2+2),17:30,10h 30m,04:00,3.1,600.0,28
+80,80,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),18:30,10h 35m,05:05,2.1,650.0,22
+81,81,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,Arhans Tour And Travels,NON AC Seater / Sleeper 2+1,18:30,11h 30m,06:00,2.8,600.0,29
+82,82,Silchar to Guwahati,https://www.redbus.in/bus-tickets/silchar-to-guwahati,SEEMA TRAVELS,NON AC Seater / Sleeper 2+1,17:30,11h 30m,05:00,2.7,650.0,46
+83,83,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,Aniruddha Travels,NON A/C Seater/ Sleeper (2+1),23:15,04h 45m,04:00,2.9,550.0,17
+84,84,Bokakhat to Dibrugarh,https://www.redbus.in/bus-tickets/bokakhat-to-dibrugarh,PIHU TRANSPORT,Bharat Benz NON A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,2.8,500.0,50
+86,86,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Shree Ram Travels (Under ASTC),Bharat Benz A/C Seater (2+1),20:00,05h 00m,01:00,4.8,500.0,11
+87,87,Dibrugarh to Bokakhat,https://www.redbus.in/bus-tickets/dibrugarh-to-bokakhat,Shree Ram Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:45,04h 55m,01:40,4.8,530.0,15
