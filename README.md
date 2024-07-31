@@ -1,5 +1,5 @@
 # Red_Bus_Project:
-Project on Scraping the bus details, storing in the database and fetching the bus details in streamlit application
+Project on Scraping the bus details, storing in the database and fetching the bus details in streamlit application.
 step1: Data Scraping: Using Selenium, Scrape the bus details like route name,route link,bus name,departing time ,seat availablity etc 
        for each State.
 step2:Save the scraped data in csv file.
