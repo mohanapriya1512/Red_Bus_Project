@@ -2,12 +2,12 @@ import mysql.connector
 import pandas as pd
 
 #Establish database connection
-#pymysql.connect(host='127.0.0.1',user='root',passwd='*******',database='redbusdb')
+#pymysql.connect(host='127.0.0.1',user='root',passwd='********',database='redbusdb')
 def get_db_connection():
     return mysql.connector.connect(
         host="127.0.0.1",
         user="root",
-        password="*******",
+        password="********",
         database="redbusdb"
     )
 
@@ -82,6 +82,8 @@ def fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rati
         query += " AND star_rating BETWEEN %s AND %s"
         params.extend([min_rating, max_rating])
 
+    print(f"SQL Query: {query}")
+    print(f"Parameters: {params}")
     cursor = conn.cursor(dictionary=True)
     cursor.execute(query, params)
     data = cursor.fetchall()
@@ -89,6 +91,9 @@ def fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rati
     conn.close()
 
     df =pd.DataFrame(data)
+    
+    #print("DataFrame Columns:", df.columns)  # Debug print to check columns
+    #print(df.head())  # Print first few rows to verify data
 
     # Function to format the time duration
     def format_duration(duration):
@@ -101,7 +106,7 @@ def fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rati
     # Apply the formatting function
     df['departing_time'] = df['departing_time'].apply(format_duration)
     df['arrival_time'] = df['arrival_time'].apply(format_duration)
-    # Print the data types to diagnose the issue
+    #Print the data types to diagnose the issue
     #print(df.dtypes)
     #print(df)   
     return df
@@ -144,13 +149,14 @@ def main():
 
     #Fetch and display data based on user inputs
     if st.sidebar.button("Search Bus"):
-        filtered_data = fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rating)
-        
-        if not filtered_data.empty:
+        #filtered_data = fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rating)
+        try:
+            filtered_data = fetch_filtered_data(route_name, bus_type, departing_time, price_range, star_rating)
             st.write("Filtered Results:")
             st.dataframe(filtered_data)
-        else:
+        
+        except Exception as e:
             st.write("No results found.")
-
+        
 if __name__ == "__main__":
     main()
