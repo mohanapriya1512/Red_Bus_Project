@@ -2,12 +2,12 @@ import mysql.connector
 import pandas as pd
 
 #Establish database connection
-#pymysql.connect(host='127.0.0.1',user='root',passwd='********',database='redbusdb')
+#pymysql.connect(host='127.0.0.1',user='root',passwd='*******',database='redbusdb')
 def get_db_connection():
     return mysql.connector.connect(
         host="127.0.0.1",
         user="root",
-        password="********",
+        password="*******",
         database="redbusdb"
     )
 
@@ -56,25 +56,33 @@ def fetch_filtered_data(route_name,bus_type,departing_time,price_range,star_rati
 
     #Filter by departing time:
     if departing_time:
-        time_conditions = {
-            "Before 6am": "departing_time < '06:00:00'",
-            "6am-12Pm": "departing_time BETWEEN '06:00:00' AND '12:00:00'",
-            "12pm-6pm": "departing_time BETWEEN '12:00:00' AND '18:00:00'",
-            "After 6pm": "departing_time > '18:00:00'"
-        }
-        query += f" AND {time_conditions[departing_time]}"
+        if departing_time == "Before 6am":
+            query += " AND departing_time < '06:00:00'"
+        elif departing_time == "6am-12Pm":
+            query += " AND departing_time BETWEEN '06:00:00' AND '12:00:00'"
+        elif departing_time == "12pm-6pm":
+            query += " AND departing_time BETWEEN '12:00:00' AND '18:00:00'"
+        elif departing_time == "After 6pm":
+            query += " AND departing_time > '18:00:00'"
+    
 
     #Filter by price_range
     if price_range:
-        price_ranges = {
-            '100-500': (100, 500),
-            '501-1500': (501, 1500),
-            '1501-3000': (1501, 3000),
-            '3001-5000': (3001, 5000),
-        }
-        min_price, max_price = price_ranges[price_range]
-        query += " AND fare_price BETWEEN %s AND %s"
-        params.extend([min_price, max_price])
+        if price_range == '100-500':
+            min_price, max_price = 100, 500
+        elif price_range == '501-1500':
+            min_price, max_price = 501, 1500
+        elif price_range == '1501-3000':
+            min_price, max_price = 1501, 3000
+        elif price_range == '3001-5000':
+            min_price, max_price = 3001, 5000
+        else:
+            min_price, max_price = None, None
+
+        if min_price is not None and max_price is not None:
+            query += " AND fare_price BETWEEN %s AND %s"
+            params.extend([min_price, max_price])
+    
 
     #Filter by star_rating:
     if star_rating:
