@@ -113,7 +113,7 @@ import streamlit as st
 def main():
     # Streamlit app layout
     st.title('REDBUS Bus Details')
-    st.header('Bus Deatils for the Selected Route Name')
+    st.header('Bus Details for the Selected Route Name')
     st.sidebar.write("Home :house:")
 
     # Display the sidebar selection boxes and slider
